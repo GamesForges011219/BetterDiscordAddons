@@ -1,5 +1,5 @@
 :root {
-	--settingsmodalbackground: transparent;
+	--settingsmodalbackground: "#2D2D2D";
 	--settingsmodalwidth: 960px;
 	--settingsmodalheight: 80vh;
 }
@@ -147,7 +147,7 @@
 	right: 0 !important;
 	bottom: 0 !important;
 	left: 0 !important;
-	background: transparent !important;
+	background: "#2D2D2D" !important;
 	border: none !important;
 	border-radius: 0 !important;
 	width: 100% !important;
