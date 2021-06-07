@@ -16,7 +16,7 @@
 #app-mount .layer-3QrUeG.stop-animations:first-child::after {
 	content: "" !important;
 	position: fixed !important;
-	background: rgb(8, 88, 0, 1) !important;
+	background: rgb(0, 0, 0, 1) !important;
 	top: 0 !important;
 	right: 0 !important;
 	bottom: 0 !important;
