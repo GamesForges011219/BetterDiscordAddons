@@ -1,5 +1,5 @@
 :root {
-	--settingsmodalbackground: "#2D2D2D";
+	--settingsmodalbackground: transparent;
 	--settingsmodalwidth: 960px;
 	--settingsmodalheight: 80vh;
 }
@@ -16,7 +16,7 @@
 #app-mount .layer-3QrUeG.stop-animations:first-child::after {
 	content: "" !important;
 	position: fixed !important;
-	background: rgb(0, 0, 0) !important;
+	background: rgb(0, 0, 0, 1) !important;
 	top: 0 !important;
 	right: 0 !important;
 	bottom: 0 !important;
@@ -78,7 +78,7 @@
 	right: 0 !important;
 	bottom: 0 !important;
 	left: 0 !important;
-	background: "#2D2D2D" !important;
+	background: transparent !important;
 	border: none !important;
 	border-radius: 0 !important;
 	width: 100% !important;
@@ -147,7 +147,7 @@
 	right: 0 !important;
 	bottom: 0 !important;
 	left: 0 !important;
-	background: "#2D2D2D" !important;
+	background: transparent !important;
 	border: none !important;
 	border-radius: 0 !important;
 	width: 100% !important;
